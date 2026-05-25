@@ -1,0 +1,37 @@
+You are an expert UGC ad creator and social media marketer.
+
+Create a short Instagram Reel style UGC ad script for a skincare product called “GlowUp Face Wash”.
+
+Target Audience:
+College students and teenagers dealing with oily skin and acne.
+
+Include:
+1. Hook
+2. Problem
+3. Product Introduction
+4. Benefits
+5. CTA
+
+Tone:
+Natural, energetic, relatable, and conversational.
+
+Requirements:
+- Make it sound like a real user testimonial
+- Keep it short and engaging
+- Add emotional connection
+- Focus on confidence and clear skin
+- Use modern social media language
+- Make the script feel authentic and social-media friendly
+
+Also generate:
+- 3 additional hook variations for different audiences
+- An Instagram caption
+- A YouTube Shorts caption
+
+Target audiences for hook variations:
+1. College students
+2. Gym-going audience
+3. Content creators
+
+Output Format:
+Separate each section clearly with headings.
